@@ -1,0 +1,9 @@
+SurveySystem/.vs/
+SurveySystem/SurveySystem/obj/
+SurveySystem/SurveySystem.DAL/obj/
+SurveySystem/SurveySystem.BLL/obj/
+SurveySystem/SurveySystem.BLL/bin/
+SurveySystem/SurveySystem/bin/
+SurveySystem/SurveySystem.Shared/obj/
+SurveySystem/SurveySystem.DAL/bin/
+SurveySystem/SurveySystem.Shared/bin/
